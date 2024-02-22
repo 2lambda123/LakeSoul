@@ -116,7 +116,7 @@ SPDX-License-Identifier: Apache-2.0
     </build>
 
     <properties>
-        <postgresql.version>42.5.1</postgresql.version>
+        <postgresql.version>42.7.2</postgresql.version>
         <scala.version>2.12.10</scala.version>
         <scala.binary.version>2.12</scala.binary.version>
         <local.scope>provided</local.scope>
